@@ -1,4 +1,4 @@
-package com.pragya.beans;
+package com.ken.beans;
 
 import java.util.Date;
 
@@ -9,6 +9,6 @@ public class utility {
 		
 	}
 	public void m1() {
-		System.out.println("m1()......abcd");
+		System.out.println("m1()......abcd1234");
 	}
 }
